@@ -12,7 +12,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-blue-600 text-white shadow-md">
+    <header className="bg-yellow-600 text-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center">
         <Link to="/" className="text-2xl font-bold mb-2 sm:mb-0">
           🌎 Countries Explorer
