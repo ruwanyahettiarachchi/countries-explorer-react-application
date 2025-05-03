@@ -29,7 +29,7 @@ function App() {
             </main>
             <footer className="bg-blue-600 text-white py-4">
               <div className="container mx-auto px-4 text-center">
-                <p>&copy; {new Date().getFullYear()} Countries Explorer | Created for SE3040 Assignment</p>
+                <p>&copy; {new Date().getFullYear()} Countries Explorer | Created by H.D.R.T.Hettiatachchi - IT22627650</p>
                 <p className="text-sm mt-1">Data provided by REST Countries API</p>
               </div>
             </footer>
